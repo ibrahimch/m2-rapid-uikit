@@ -1,5 +1,5 @@
 {
-  "name": "divante-ltd/module-uikit",
+  "name": "ibrahimch/module-uikit",
   "description": "Module Divante Uikit for Divante Rapid theme",
   "license": [
     "MIT"
@@ -10,9 +10,6 @@
       "email": "kchara@divante.pl"
     }
   ],
-  "require": {
-    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
-  },
   "type": "magento2-module",
   "version": "1.2.6",
   "autoload": {
